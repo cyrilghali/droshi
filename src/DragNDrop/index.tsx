@@ -119,7 +119,7 @@ resource "aws_instance" "${nd.data.name}" {
         id: getId(),
         type,
         position,
-        data: { name: `web`, instance_type: `t2.micro`, ami: `ami-a1b2c3d4`},
+        data: { name: `web`, instance_type: `t2.micro`, ami: `ami-0dcc1e21636832c5d`},
       };
 
       setNodes((nds) => nds.concat(newNode));
