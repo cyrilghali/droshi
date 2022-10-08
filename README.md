@@ -1,35 +1,5 @@
-# This is just a very little attempt to convert aws ressources into a terraform file
+I have asked myself first why can't draw diagrams and boom: it transform into a terraform file ?
 
-# React Flow Example App - Create React App
+Here I have tried to build a micro-frontend to achieve that. It's just take ec2 instances from aws and you can modify the name only.
 
-This app was bootstrapped with [`create-react-app`](https://github.com/facebook/create-react-app).
-
-## Installation
-
-```sh
-npm install
-```
-
-### Start Dev Server
-
-```sh
-npm start
-```
-
-Runs the app in development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-### Run Tests
-
-```sh
-npm test
-```
-
-### Build
-
-```sh
-npm run build
-```
-
-## Create React App Docs
-
-Please refer to the [Create React App docs](https://facebook.github.io/create-react-app/docs/getting-started) for more information.
+Still a poc that can be pushed far further from what it is today.
