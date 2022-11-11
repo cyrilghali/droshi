@@ -1,4 +1,4 @@
-I have asked myself first why can't draw diagrams and boom: it transform into a terraform file ?
+I have asked myself first why we can't draw diagrams and boom: it transform into a terraform file ?
 
 Here I have tried to build a micro-frontend to achieve that. It take ec2 instances from aws and you can modify the name only.
 
